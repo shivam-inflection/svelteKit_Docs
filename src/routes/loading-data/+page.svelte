@@ -7,3 +7,4 @@ export let data: PageData;
 </script>
 
 <h1>{data.dataReturn.title}</h1>
+<a  href="./preload-data">ClickMe</a>
